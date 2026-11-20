@@ -60,10 +60,10 @@ python guardrails_scanner.py --file prompt.txt --json
 - **Standard Normativo**: Linee Guida di Sicurezza per IA Generativa e OWASP LLM
 - **Organizzazione Responsabile**: [TAVARDT-Italia](https://github.com/TAVARDT-Italia)
 
-## Ecosistema TAVARDT e Portali Ufficiali
+## Portali Ufficiali
 
 - **Portale Istituzionale**: [https://ag.tavardt.com/it/](https://ag.tavardt.com/it/)
-- **Centro Strumenti TAVARDT**: [https://tools.tavardt.com/it/](https://tools.tavardt.com/it/)
+- **Centro Strumenti**: [https://tools.tavardt.com/it/](https://tools.tavardt.com/it/)
 - **Canale di Supporto Tecnico**: [https://ag.tavardt.com/it/contatto/](https://ag.tavardt.com/it/contatto/)
 
 ---
