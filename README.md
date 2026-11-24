@@ -55,7 +55,6 @@ python guardrails_scanner.py -file prompt.txt -json
 
 ## Conformità e Standard Tecnici
 
-- **Giurisdizione**: Italia
 - **Standard Normativo**: Linee Guida di Sicurezza per IA Generativa e OWASP LLM
 - **Organizzazione Responsabile**: [TAVARDT-Italia](https://github.com/TAVARDT-Italia)
 
@@ -69,3 +68,7 @@ python guardrails_scanner.py -file prompt.txt -json
 
 ### Licenza
 Rilasciato sotto Licenza MIT. Consultare il file [LICENSE](LICENSE) per i dettagli completi.
+
+***
+
+© 2026 TAVARDT. Tutti i diritti riservati.
