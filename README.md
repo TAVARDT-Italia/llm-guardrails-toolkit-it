@@ -5,7 +5,7 @@
 
 Protezione contro Prompt Injection, fuga di istruzioni di sistema e manipolazione di modelli linguistici.
 
-Sviluppato e manutenuto dal reparto di sicurezza informatica e intelligenza artificiale di **TAVARDT Italia**.
+Sviluppato e manutenuto dal reparto di sicurezza informatica e intelligenza artificiale di **TAVARDT**.
 
 ***
 
@@ -56,13 +56,8 @@ python guardrails_scanner.py -file prompt.txt -json
 ## Conformità e Standard Tecnici
 
 - **Standard Normativo**: Linee Guida di Sicurezza per IA Generativa e OWASP LLM
-- **Organizzazione Responsabile**: [TAVARDT-Italia](https://github.com/TAVARDT-Italia)
 
-## Portali Ufficiali
 
-- **Portale Istituzionale**: [Portal Institucional](https://ag.tavardt.com/it/)
-- **Centro Strumenti**: [Central de Ferramentas](https://tools.tavardt.com/it/)
-- **Canale di Supporto Tecnico**: [https://ag.tavardt.com/it/contatto/](https://ag.tavardt.com/it/contatto/)
 
 ***
 
