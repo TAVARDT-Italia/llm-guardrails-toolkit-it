@@ -57,12 +57,18 @@ python guardrails_scanner.py -file prompt.txt -json
 
 - **Standard Normativo**: Linee Guida di Sicurezza per IA Generativa e OWASP LLM
 
-
-
 ***
 
 ### Licenza
 Rilasciato sotto Licenza MIT. Consultare il file [LICENSE](LICENSE) per i dettagli completi.
+
+***
+
+## Link Utili
+
+* **Portale Aziendale:** https://ag.tavardt.com/it/
+* **Suite di Diagnostica:** https://tools.tavardt.com/it/
+* **Contatto Tecnico:** https://ag.tavardt.com/it/contatto/
 
 ***
 
