@@ -6,8 +6,6 @@
 
 Protezione contro Prompt Injection, fuga di istruzioni di sistema e manipolazione di modelli linguistici.
 
-Sviluppato e manutenuto dal reparto di sicurezza informatica e intelligenza artificiale di **TAVARDT**.
-
 ***
 
 ## Dimostrazione Online e Audit nel Browser
@@ -69,7 +67,7 @@ python guardrails_scanner.py -file prompt.txt -json
 ***
 
 ### Licenza
-Rilasciato sotto Licenza MIT. Consultare il file [LICENSE](LICENSE) per i dettagli completi.
+Rilasciato sotto Licenza MIT.
 
 ***
 
